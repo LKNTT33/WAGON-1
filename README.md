@@ -5,3 +5,8 @@ Let see how a commit looks like.
 ## Subheader
 
 Watch Tutorial on YouTube. 
+Thanks for your support.
+
+## New stuff in README ! 
+
+Hi again ! 
